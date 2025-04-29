@@ -11,3 +11,6 @@
 - Signaux (`kill`, `signal`)
 - Encodage binaire
 - Synchronisation
+
+## Sujet du projet
+Vous pouvez consulter le sujet officiel ici : [📑 Sujet PDF](./minitalk.subject.pdf)
